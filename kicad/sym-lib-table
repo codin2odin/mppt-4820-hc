@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name Project)(type Legacy)(uri ${KIPRJMOD}/project.lib)(options "")(descr "All symbols contained in this project"))
+  (lib (name "Project")(type "KiCad")(uri "${KIPRJMOD}/Project.kicad_sym")(options "")(descr ""))
+  (lib (name "mppt-2420-hc-rescue")(type "KiCad")(uri "${KIPRJMOD}/mppt-2420-hc-rescue.kicad_sym")(options "")(descr ""))
 )
