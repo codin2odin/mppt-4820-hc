@@ -6,6 +6,8 @@ Schematic: [PDF file](build/mppt-4820-hc_schematic.pdf)
 
 Bill of Materials: [CSV file](build/mppt-4820-hc_bom(hv_supply,can).csv)
 
+Firmware repository: [charge-controller-firmware](https://github.com/codin2odin/charge-controller-firmware)
+
 This charge controller design is modified version of [mppt-2420-hc](https://github.com/LibreSolar/mppt-2420-hc) with goal of adding support for 36v & 48v battery systems.
 
 ## Features
