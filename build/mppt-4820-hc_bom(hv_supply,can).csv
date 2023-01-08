@@ -59,7 +59,7 @@
 58,U2,STM32G431CBTx,LQFP-48_7x7mm_P0.5mm,"ARM Cortex-M4 MCU, 128KB flash, 22KB RAM, 170MHz, 1.71-3.6V, 66 GPIO, LQFP-48",1,ST Microelectronics,STM32G431CBT6,,,
 59,U7,TCAN334,SOIC-8_3.9x4.9mm_Pitch1.27mm,"High-Speed CAN Transceiver, 1Mbps, 3.3V supply, low power standby mode, shutdown mode, SOT-23-8/SOIC-8",1,Texas Instruments,TCAN334DR,,+can,
 60,U6,W25Q80DVS,SOIC-8_3.9x4.9mm_Pitch1.27mm,"128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8",1,Winbond,W25Q80DVSNIG,,,
-61,XF1,Fuse_Holder,Keystone-Fuse-3557-2,Fuse holder,1,Keystone,3557,,,
+61,XF1,Fuse_Holder,MPD,Fuse holder,1,,BF302,,,
 62,Y1,8,Resonator_Murata_CSTNE,Two pin crystal,1,Murata,CSTNE8M00GH5C000R0,0.00,+can,
 ,,,,,,,,,,
 ,,,,,,,,,,
