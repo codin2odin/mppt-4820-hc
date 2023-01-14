@@ -765,7 +765,7 @@
     (property "Value" "120R" (id 1) (at 120.8786 97.663 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "LibreSolar:R_1206_3216" (id 2) (at 114.935 99.06 0)
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric" (id 2) (at 114.935 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 117.475 96.52 0)
