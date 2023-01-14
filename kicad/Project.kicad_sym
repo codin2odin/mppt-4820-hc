@@ -3745,11 +3745,11 @@
       )
     )
   )
-  (symbol "MPQ8112A" (in_bom yes) (on_board yes)
+  (symbol "MPQ8112" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 3.81 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MPQ8112A" (id 1) (at 3.81 8.89 0)
+    (property "Value" "MPQ8112" (id 1) (at 3.81 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6" (id 2) (at 1.27 11.43 0)
@@ -3758,7 +3758,7 @@
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "MPQ8112A_0_1"
+    (symbol "MPQ8112_0_1"
       (polyline
         (pts
           (xy -5.08 5.08)
@@ -3770,7 +3770,7 @@
         (fill (type background))
       )
     )
-    (symbol "MPQ8112A_1_1"
+    (symbol "MPQ8112_1_1"
       (pin output line (at 7.62 0 180) (length 2.54)
         (name "OUT" (effects (font (size 0.64 0.64))))
         (number "1" (effects (font (size 0.64 0.64))))
