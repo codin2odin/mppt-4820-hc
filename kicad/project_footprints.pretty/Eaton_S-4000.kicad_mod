@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b038705f-c077-484e-bd2f-69386ec38916)
   )
-  (fp_text value "Eaton_S-400" (at 0 -6 unlocked) (layer "F.Fab")
+  (fp_text value "Eaton_S-4000" (at 0 -6 unlocked) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 20ec836c-4e19-4f89-a1f2-e51546559dfe)
   )

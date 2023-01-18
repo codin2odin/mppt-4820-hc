@@ -3495,7 +3495,7 @@
     (uuid 00000000-0000-0000-0000-00005eea3888)
     (property "Reference" "XF1" (id 0) (at 198.12 48.26 0))
     (property "Value" "Fuse_Holder" (id 1) (at 198.12 50.8 0))
-    (property "Footprint" "LibreSolar:Eaton_S-400" (id 2) (at 198.12 48.26 0)
+    (property "Footprint" "LibreSolar:Eaton_S-4000" (id 2) (at 198.12 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 198.12 48.26 0)
@@ -4363,7 +4363,7 @@
       (reference "U7") (unit 1) (value "TCAN334") (footprint "LibreSolar:SOIC-8_3.9x4.9mm_Pitch1.27mm")
     )
     (path "/00000000-0000-0000-0000-00005eea3888"
-      (reference "XF1") (unit 1) (value "Fuse_Holder") (footprint "LibreSolar:Eaton_S-400")
+      (reference "XF1") (unit 1) (value "Fuse_Holder") (footprint "LibreSolar:Eaton_S-4000")
     )
     (path "/00000000-0000-0000-0000-000058a68dcb/00000000-0000-0000-0000-00005daa9f9f"
       (reference "Y1") (unit 1) (value "8MHz") (footprint "LibreSolar:Resonator_Murata_CSTNE")
