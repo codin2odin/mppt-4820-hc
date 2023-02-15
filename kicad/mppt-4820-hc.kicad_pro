@@ -357,7 +357,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mppt-2420-hc.kicad_pro",
+    "filename": "mppt-4820-hc.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -449,7 +449,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "libre-solar.kicad_wks",
-    "plot_directory": "/home/strigis/Desktop/projects/mppt-charger_mk1/hardware/build/",
+    "plot_directory": "../build/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
