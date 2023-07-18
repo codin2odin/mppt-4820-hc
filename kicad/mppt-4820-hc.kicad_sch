@@ -3438,7 +3438,7 @@
     (property "Value" "25A" (at 198.12 43.053 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "LibreSolar:NULL" (at 198.12 45.72 0)
+    (property "Footprint" "LibreSolar:Eaton_S-4000" (at 198.12 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 198.12 45.72 0)
